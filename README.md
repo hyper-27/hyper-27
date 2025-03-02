@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 <!--
 **hyper-27/hyper-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
